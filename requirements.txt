@@ -1,0 +1,9 @@
+pandas
+gensim
+nltk
+matplotlib
+ipywidgets
+wordcloud
+seaborn
+ipykernel
+voila
